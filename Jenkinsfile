@@ -1,4 +1,4 @@
-@Library('JavaLibShared') _
+@Library('JavasharedLib') _
 pipeline{
 agent any
 stages{
